@@ -30,8 +30,8 @@ I'm a passionate **Firmware & Embedded Systems Engineer** with a strong interest
 
 ## 📫 Let's Connect!
 
-📧 **Email**: [Your Email]  
-💼 **LinkedIn**: [Your LinkedIn Profile]  
+📧 **Email**: *vinaynk3@gmail.com*  
+💼 **LinkedIn**: www.linkedin.com/in/vinay-naik-214998113  
 🌐 **Portfolio**: [Your Portfolio/Website]  
 
 ---
