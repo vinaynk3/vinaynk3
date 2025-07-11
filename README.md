@@ -8,11 +8,11 @@ I'm a passionate **Firmware & Embedded Systems Engineer** with a strong interest
 
 - **Embedded Systems**: ESP32, MicroPython, C, C++
 - **Communication Protocols**: MODBUS, MQTT, APIs, OCPP
-- **Software Development**: Python, Django REST Framework
+- **Software Development**: Python, Django, Flask
 - **Database Management**: SQL, NoSQL
-- **Cloud & IoT**: AWS IoT Core, Edge Computing
+- **Cloud & IoT**: AWS IoT Core, Edge Computing, Thingworx
 - **Web Development**: HTML, CSS, JavaScript (for monitoring dashboards)
-- **Robotics & Automation**: Sensor integration, AGV systems
+- **Robotics & Automation**: Sensor integration, AGV systems, ROS, ROS2
 
 ## 📌 Work & Projects
 
