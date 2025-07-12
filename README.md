@@ -36,6 +36,4 @@ I'm a passionate **Firmware & Embedded Systems Engineer** with a strong interest
 
 ---
 
-Thanks for visiting my GitHub! Feel free to check out my repositories and reach out if you want to collaborate! 🚀
-
-
+Thanks for visiting my GitHub!
